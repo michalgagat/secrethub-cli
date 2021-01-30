@@ -13,7 +13,7 @@ require (
 	github.com/mattn/go-colorable v0.1.1
 	github.com/mattn/go-isatty v0.0.7
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/mitchellh/mapstructure v1.1.2
+	github.com/mitchellh/mapstructure v1.4.1
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/secrethub/demo-app v0.1.0
 	github.com/secrethub/secrethub-go v0.27.0
